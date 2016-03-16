@@ -1,0 +1,23 @@
+/*Luis Alberto Valera*/
+Andorid--
+-----------------------------------------------------------------------------------------------------------
+Sistema basado principal mente sobre Linux/unix
+Este sistema operativo tiene unas 12 millones de líneas de codigo, 
+incluyendo las 3 millones de líneas de XML, 2.8 millones de líneas en C y 2.1 millones de líneas de Java. 
+También hay 1.75 millones de líneas en C++.
+------------------------------------------------------------------------------------------------------------
+Nacimiento -> 5 de Noviembre de 2007 en que el anuncio oficial de Android llego a los medios.
+--Versiones de Android---
+->Androdd 1.0 Apple Pie Sep 2008 ---el HTC Dream también conocido por entonces como Google Phone 
+->Android 1.1 Banana Bread Feb 2009 --- llegó solo para los dispositivos T-Mobile G1 y entre sus novedades se encontraban el soporte para marquesina en diseños de sistemas
+->Andorid 1.5 Cupcake abril 2009 --
+->Android 1.6: Donut Sep 2009 --
+->Android 2.0: Eclair oct 2009 -- Integra Facebook y Twitter -> GoogleMaps 
+->Android 2.2 Froyo Mayo 2010 --incorpora el motor de Java V8 y ofrece a los usuarios un aumento de velocidad gracias al compilador JIT que permite iniciar las solicitudes más rápido y mejorar el rendimiento general del sistema.
+->Android 2.3 Gingerbread dic 2010
+->Android 3.0: Honeycomb feb 2011 -- Basado en el kernel 2.6.36.50 de linux, Honeycomb llego por primera vez en las tablets Motorola Xoom el 24
+->Android 4.0: Ice Cream Sandwich oct 2011 --
+->Android 4.1: Jelly Bean jun 2012--se implementó el núcleo de linux 3.0.31 y una serie de mejoras en lo que se llamó Project Butter que permitió aumentar hasta 60 FPS las transiciones en la interfaz de usuario, dando una experiencia realmente fluida.
+->Android 4.4: KitKat oct 2013 --trajo la implementación de zRAM, en donde se optimizaba el rendimiento para dispositivos con memoria de 512MB de RAM 
+->Android 5.0: Lollipop Nov 2014 --
+->Android 6.0 Marshmallow sep 2015

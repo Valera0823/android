@@ -1,0 +1,26 @@
+package com.Valera0823.Javabasico;
+
+import java.util.Scanner;
+
+public class jv {
+
+	static double GetRandom(double _a , double _b) {
+		  return Math.floor(Math.random() * (_a - _b)) + _b;
+		}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String entradaTeclado = "";
+
+       
+        System.out.println("Dame el valor maximo :");
+		Scanner entradaEscaner = new Scanner (System.in);
+        entradaTeclado = entradaEscaner.nextLine (); 
+       
+        double value = Double.parseDouble(entradaTeclado);
+       
+		 System.out.println(GetRandom(value,6));
+		 
+	}
+
+}

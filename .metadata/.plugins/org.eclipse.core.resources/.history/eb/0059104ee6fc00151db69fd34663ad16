@@ -1,0 +1,10 @@
+package com.Valera0823.Herencia;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Playera play = new Playera(1,100,"ch","Gris","Polo");
+	}
+
+}

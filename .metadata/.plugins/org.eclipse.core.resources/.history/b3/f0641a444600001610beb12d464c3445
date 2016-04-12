@@ -1,0 +1,21 @@
+package com.Valera0823.Javabasico;
+import java.util.Random;
+import java.util.Scanner;
+public class jv {
+	static double rand(double _a , double _b)
+	{
+		Random rnd = new Random();
+		double r =(rnd.nextDouble() * _a + _b);
+		return r;
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int entradaTeclado = 0;
+
+        Scanner entradaEscaner = new Scanner (System.in);
+        int entradaEscaner1;
+		 System.out.println(rand(0,1));
+	}
+
+}

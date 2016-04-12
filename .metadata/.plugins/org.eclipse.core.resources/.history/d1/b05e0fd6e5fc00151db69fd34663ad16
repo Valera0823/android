@@ -1,0 +1,10 @@
+
+public class Ropa {
+public int id;
+public String Talla;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

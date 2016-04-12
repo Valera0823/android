@@ -1,0 +1,14 @@
+package com.Valera0823.Herencia;
+
+public class Ropa {
+public int id;
+public String Talla;
+public Double Precio;
+public String Color;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

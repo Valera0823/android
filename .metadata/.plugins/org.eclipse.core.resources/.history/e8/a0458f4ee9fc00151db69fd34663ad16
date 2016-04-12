@@ -1,0 +1,14 @@
+package com.Valera0823.Herencia;
+
+
+public class Jeans extends Ropa
+{
+	private String corte;
+	private char genero;
+	public Jeans(int id,double precio, String Talla,String Color,String corte,char genero){
+		this.corte=corte;
+		this.genero=genero;
+	}
+
+}
+

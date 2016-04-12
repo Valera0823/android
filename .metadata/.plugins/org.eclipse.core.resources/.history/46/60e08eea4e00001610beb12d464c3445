@@ -1,0 +1,23 @@
+package com.Valera0823.Javabasico;
+
+import java.util.Scanner;
+
+public class jv {
+
+	static double GetRandom(double _a , double _b) {
+		  return Math.floor(Math.random() * (_a - _b)) + _b;
+		}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String VmaxTecaldo = "";
+        System.out.println("Dame el valor maximo :");
+		Scanner valorMax = new Scanner (System.in);
+		VmaxTecaldo = valorMax.nextLine (); 
+        double value = Double.parseDouble(VmaxTecaldo);
+       
+		 System.out.println(GetRandom(value,6));
+		 
+	}
+
+}

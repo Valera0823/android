@@ -1,0 +1,18 @@
+package com.Valera0823.Herencia;
+
+public class Playera extends Ropa
+{
+	private String Corte;
+	Playera()
+	{
+		
+	}
+	public void mostrarDatos(String _Nc)
+	{
+		System.out.println("id:"+id);
+		System.out.println("Talla:"+Talla);
+		System.out.println("$:"+Precio);
+		System.out.println("Color:"+Color);
+	}
+}
+

@@ -1,0 +1,27 @@
+package com.Valera0823.Javabasico;
+
+import java.util.Scanner;
+
+public class jv {
+
+	static double GetRandom(double _a , double _b) {
+		  return Math.floor(Math.random() * (_a - _b) + _b;
+		}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Dame el valor maximo :");
+		String VmaxTecaldo = "";
+		Scanner valorMax = new Scanner (System.in);
+		VmaxTecaldo = valorMax.nextLine (); 
+        double a = Double.parseDouble(VmaxTecaldo);
+        System.out.println("Dame el valor Minimo :");
+		String VminTecaldo = "";
+		Scanner valorminimo = new Scanner (System.in);
+		VminTecaldo = valorMax.nextLine (); 
+        double b = Double.parseDouble(VminTecaldo);
+		 System.out.println("Resultado:"+GetRandom(a,b));
+		 
+	}
+
+}

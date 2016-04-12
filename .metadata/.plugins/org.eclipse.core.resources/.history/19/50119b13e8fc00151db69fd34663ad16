@@ -1,0 +1,12 @@
+package com.Valera0823.Herencia;
+
+public class Playera extends Ropa
+{
+	private String Corte;
+
+	public Playera(){
+	
+	}
+
+}
+

@@ -1,0 +1,14 @@
+package com.Valera0823.Javabasico;
+import java.util.Random;
+public class jv {
+	void rand(double _a , double _b)
+	{
+		Random rnd = new Random();
+		rnd = (int)(rnd.nextDouble() * 100);
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

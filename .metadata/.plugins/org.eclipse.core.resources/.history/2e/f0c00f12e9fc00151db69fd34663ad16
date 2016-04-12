@@ -1,0 +1,13 @@
+package com.Valera0823.Herencia;
+
+
+public class Jeans
+{
+	private String corte;
+	Private char genero;
+	public Jeans(){
+		super();
+	}
+
+}
+

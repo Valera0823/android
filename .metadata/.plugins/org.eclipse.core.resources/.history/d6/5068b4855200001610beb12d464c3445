@@ -1,0 +1,32 @@
+package com.Valera0823.FuncionFecha;
+
+public class fecha {
+
+	public class FECHA
+	{
+		private String Dia;
+		private String Mes;
+		private String Año;
+		
+		
+		public FECHA(String _dia , String _mes , String _año){
+			this.Dia = _dia;
+			this.Mes = _mes;
+			this.Año = _año;
+		}
+		
+		public void SetFecha(){
+			
+		}
+		public String GetFecha(){
+			
+			return "";
+		}
+		
+		public void CompararFecha(){}
+		
+		public void ImprimirFecha(){}
+		
+	}
+
+}

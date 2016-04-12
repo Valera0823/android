@@ -1,0 +1,17 @@
+package com.Valera0823.FuncionFecha;
+
+public class fecha {
+
+	public class FECHA
+	{
+		private String Dia;
+		private String Mes;
+		private String Año;
+		
+		public void SetFecha(){
+			
+		}
+		
+	}
+
+}

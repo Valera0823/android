@@ -1,0 +1,8 @@
+package com.Valera0823.FuncionFecha;
+
+public class Snippet {
+	public static void main(String[] args) {
+		import com.Valera0823.FuncionFecha.fecha.FECHA;
+	}
+}
+

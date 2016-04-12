@@ -1,0 +1,10 @@
+package com.Valera0823.FuncionFecha;
+java fecha;
+public class main extends fecha{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		  FECHA f;
+	}
+
+}

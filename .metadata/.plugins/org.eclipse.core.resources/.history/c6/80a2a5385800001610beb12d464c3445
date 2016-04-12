@@ -1,0 +1,15 @@
+package com.Valera0823.FuncionFecha;
+import com.Valera0823.FuncionFecha.fecha.FECHA;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		  FECHA _fecha = null ;
+		  _fecha.SetFecha(10,22,1995);
+		  _fecha.GetFecha();
+	}
+
+	
+
+}

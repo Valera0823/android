@@ -1,0 +1,38 @@
+package com.Valera0823.FuncionFecha;
+
+public class fecha {
+
+	public class FECHA
+	{
+		private int Dia;
+		private int Mes;
+		private int Año;
+		
+		
+		public FECHA(int _dia , int _mes , int _año){
+			this.Dia = _dia;
+			this.Mes = _mes;
+			this.Año = _año;
+		}
+		
+		public void SetFecha(int _dia , int _mes , int _año){
+			this.Dia = _dia;
+			this.Mes = _mes;
+			this.Año = _año;
+		}
+		public String GetFecha(){
+			
+			return Dia+"/"+Mes+"/"+Año;
+		}
+		
+		public  Boolean CharcarFecha(FECHA _fecha){
+			
+			
+			
+			return false;
+		}
+		
+		
+	}
+
+}

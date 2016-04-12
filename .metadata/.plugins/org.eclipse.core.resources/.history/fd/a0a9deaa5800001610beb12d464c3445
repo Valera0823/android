@@ -1,0 +1,15 @@
+package com.Valera0823.FuncionFecha;
+
+import com.Valera0823.FuncionFecha.fecha.FECHA;
+
+public class incio {
+
+	@SuppressWarnings("null")
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			FECHA f = null;
+			f.SetFecha(1, 4, 5);
+			System.out.println(f.GetFecha());
+	}
+
+}

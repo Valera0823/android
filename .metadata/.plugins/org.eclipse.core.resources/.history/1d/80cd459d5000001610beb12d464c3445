@@ -12,13 +12,11 @@ public class jv {
 		
 		System.out.println("Dame el valor maximo :");
 		String VmaxTecaldo = "";
-		
 		Scanner valorMax = new Scanner (System.in);
 		VmaxTecaldo = valorMax.nextLine (); 
         double a = Double.parseDouble(VmaxTecaldo);
         System.out.println("Dame el valor Minimo :");
 		String VminTecaldo = "";
-		
 		Scanner valorminimo = new Scanner (System.in);
 		VminTecaldo = valorMax.nextLine (); 
         double b = Double.parseDouble(VminTecaldo);

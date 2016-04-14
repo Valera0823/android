@@ -1,0 +1,8 @@
+package Seccion;
+
+public class masajista extends seleccionfutbol{
+
+	public masajista(){
+		super();
+	}
+}

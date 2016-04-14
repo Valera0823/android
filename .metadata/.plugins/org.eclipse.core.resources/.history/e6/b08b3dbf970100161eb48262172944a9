@@ -1,0 +1,10 @@
+package Seccion;
+
+public class entrenador {
+
+	private String idFederacion;
+	
+	public entrenador(){
+		
+	}
+}

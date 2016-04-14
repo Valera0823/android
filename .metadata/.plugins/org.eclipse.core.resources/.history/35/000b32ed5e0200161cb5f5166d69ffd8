@@ -1,0 +1,14 @@
+package empleados;
+
+public class empleado {
+
+	private String Nombre;
+	private String Apellido;
+	private int Edad;
+	private String Turno;
+	private int Sueldo;
+	
+	public empleado(){
+		
+	}
+}

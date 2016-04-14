@@ -1,0 +1,24 @@
+package Seccion;
+
+public class entrenador {
+
+	private String idFederacion;
+	
+	public entrenador(){
+		super();
+	}
+	public entrenador(int _id, String _nombre , String _ap ,int _edad, String _idF){
+		
+	}
+
+	public String getIdFederacion() {
+		return idFederacion;
+	}
+
+	public void setIdFederacion(String idFederacion) {
+		this.idFederacion = idFederacion;
+	}
+	
+	
+	
+}

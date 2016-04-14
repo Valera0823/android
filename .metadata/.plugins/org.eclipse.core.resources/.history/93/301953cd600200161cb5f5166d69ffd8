@@ -1,0 +1,40 @@
+package empleados;
+
+public class comerciales extends empleado {
+
+	private String giro;
+	private String puesto;
+	private int comicion;
+	
+	public comerciales(String _n,String _a ,int _ed , String _t , int _s ){
+		super(_n,_a,_ed,_t,_s);
+		this.giro = "";
+		this.puesto = "";
+		this.comicion = 0;
+	}
+	
+	
+	
+	public String getGiro() {
+		return giro;
+	}
+	public void setGiro(String giro) {
+		this.giro = giro;
+	}
+	public String getPuesto() {
+		return puesto;
+	}
+	public void setPuesto(String puesto) {
+		this.puesto = puesto;
+	}
+	public int getComicion() {
+		return comicion;
+	}
+	public void setComicion(int comicion) {
+		this.comicion = comicion;
+	}
+	
+	
+	
+	
+}

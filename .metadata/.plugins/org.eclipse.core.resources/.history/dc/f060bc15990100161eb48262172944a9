@@ -1,0 +1,18 @@
+package Seccion;
+
+public class futbolista extends seleccionfutbol{
+
+	
+	private int dorsal;
+	private String demarcacion;
+	public futbolista()
+	{
+		super();
+	}
+	
+	public futbolista(int _id, String _nombre , String _ap ,int _edad,int _dor, String _demar){
+		super(_id,_nombre,_ap,_edad);
+		this.idFederacion = _idF;
+	}
+
+}

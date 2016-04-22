@@ -1,0 +1,11 @@
+package com.Valera0823.onlineshop;
+
+public class libro extends products{
+
+	private String publicacion;
+	
+	public libro(double _pr) {
+		super(_pr);
+	}
+
+}

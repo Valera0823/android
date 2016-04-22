@@ -1,0 +1,12 @@
+package com.Valera0823.Poli;
+import java.util.Calendar;
+
+public class TestHerencia {
+
+	public static void main(String[] args) {
+		
+		Profesor prof = new Profesor("Juan","Carlos",23);
+		prof.Setid(1);
+	}
+
+}

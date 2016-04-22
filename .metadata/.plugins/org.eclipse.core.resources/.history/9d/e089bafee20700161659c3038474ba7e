@@ -1,0 +1,7 @@
+package com.Valera0823.onlineshop;
+
+public abstract class electronic extends products{
+
+	
+	
+}

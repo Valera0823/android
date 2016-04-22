@@ -1,0 +1,13 @@
+package com.Valera0823.Abstrac;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//Crear el objeto humano e instanciarlo y asignarle el tipo class human 
+		
+		Human human1 = new Human();
+		
+	}
+
+}

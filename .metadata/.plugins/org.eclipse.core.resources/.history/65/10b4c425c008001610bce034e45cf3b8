@@ -1,0 +1,14 @@
+package com.Valera0823.P1;
+
+public class animal {
+
+	private int patas;
+	private String alimentacion;
+	
+	public animal(int _patas, String _ali)
+	{
+		this.patas = _patas;
+		this.alimentacion = _ali;
+	}
+	
+}

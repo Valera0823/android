@@ -1,0 +1,11 @@
+package com.Valera0823.Poli;
+import java.util.Calendar;
+public class ProfesorInterino {
+
+		private Calendar fci ;
+		
+		public ProfesorInterino()
+		{
+			
+		}
+}

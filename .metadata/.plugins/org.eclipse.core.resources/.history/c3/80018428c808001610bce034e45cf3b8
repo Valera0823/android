@@ -1,0 +1,27 @@
+package com.Valera0823.P1;
+
+public class humano extends mamifero{
+
+	public String Nombre;
+	public String Nacionalidad;
+	
+	public humano(int _patas, String _ali,String _nc,String _n)
+	{
+		super(_patas,_ali);
+		this.Nacionalidad = _nc;
+	}
+
+	public String getNacionalidad() {
+		return Nacionalidad;
+	}
+
+	public void setNacionalidad(String nacionalidad) {
+		Nacionalidad = nacionalidad;
+	}
+	
+	public void mostrardatos()
+	{
+		System.out.println("Humano: Numero Patas:"+this.getPatas()+" Alimentacion:"+this.getAlimentacion()+" Nacionalidad:"+this.getNacionalidad());
+	}
+	
+}

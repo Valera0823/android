@@ -1,0 +1,5 @@
+package com.Valera0823.P1;
+
+public class pez extends animal {
+
+}

@@ -1,0 +1,12 @@
+package com.Valera0823.P1;
+
+public class elefante extends mamifero{
+
+	private String color;
+	
+	public elefante()
+	{
+		super();
+	}
+	
+}

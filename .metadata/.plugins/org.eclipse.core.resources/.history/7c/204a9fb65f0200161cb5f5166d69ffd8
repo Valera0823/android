@@ -1,8 +1,0 @@
-package empleados;
-
-public class repartidores extends empleado {
-	
-	private String trasporte;
-	private String Matricula;
-
-}

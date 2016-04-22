@@ -1,0 +1,21 @@
+package com.Valera0823.P1;
+import java.util.ArrayList;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		public static ArrayList<animal> l = new ArrayList<animal>();
+		humano h1 = new humano(2,"omnivoro","Mexicano","juan");
+		elefante f1 = new elefante(4,"herbivoro","rosa");
+		pez p1 = new pez(0,"Carnivoro","Salada","Tiburon");
+		
+		for(int i= 0 ; i < 3 ; i++)
+		{
+			
+		}
+	}
+
+}

@@ -1,0 +1,6 @@
+package com.Valera0823.onlineshop;
+
+public abstract class products {
+
+	private double precio;
+}

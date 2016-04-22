@@ -1,0 +1,12 @@
+package com.Valera0823.Abstrac;
+
+public abstract class LivingThing {
+		
+	private String name;
+	
+	public LivingThing(String _name)
+	{
+		this.name = _name;
+	}
+	
+}

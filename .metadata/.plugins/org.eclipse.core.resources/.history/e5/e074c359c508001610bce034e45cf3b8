@@ -1,0 +1,25 @@
+package com.Valera0823.P1;
+
+public class pez extends animal {
+	
+	private String TipoAgua;
+
+	
+	public pez(String _tp)
+	{
+		super ();
+		this.TipoAgua = _tp;
+		
+	}
+	
+	public String getTipoAgua() {
+		return TipoAgua;
+	}
+
+	public void setTipoAgua(String tipoAgua) {
+		TipoAgua = tipoAgua;
+	}
+	
+	
+
+}

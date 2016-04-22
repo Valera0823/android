@@ -1,0 +1,12 @@
+package com.Valera0823.onlineshop;
+
+public abstract class products {
+
+	private double PrecioRegular;
+	
+	public products(double _pr)
+	{
+		this.PrecioRegular = _pr;
+	}
+	
+}

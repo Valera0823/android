@@ -1,0 +1,10 @@
+package com.Valera0823.P1;
+
+public class mamifero {
+
+	public mamifero()
+	{
+		super();
+	}
+	
+}

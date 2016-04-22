@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.Valera0823.FuncionFecha.fecha.FECHA"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="Seccion.entrenador"/>
 <fullyQualifiedTypeName name="Seccion.futbolista"/>
 <fullyQualifiedTypeName name="Seccion.masajista"/>
 <fullyQualifiedTypeName name="Seccion.seleccionfutbol"/>
+<fullyQualifiedTypeName name="empleados.comerciales"/>
+<fullyQualifiedTypeName name="empleados.repartidores"/>
+<fullyQualifiedTypeName name="empleados.empleado"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.Calendar.Builder"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,24 @@
+package com.Valera0823.Poli;
+
+public class Profesor extends Persona {
+	
+	private String id;
+	
+	public Profesor()
+	{
+		super();
+		id = "Desconocido";
+	}
+
+	public Profesor(String _id , String _nom , String _ape , int _edad)
+	{
+		super(_nom,_ape,_edad);
+		id = _id;
+	}
+
+	
+
+
+
+
+}

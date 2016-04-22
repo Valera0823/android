@@ -1,9 +1,0 @@
-package empleados;
-
-public class empleado {
-
-	private String Nombre;
-	private String Apellido;
-	private int Edad;
-	
-}

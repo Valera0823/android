@@ -1,0 +1,5 @@
+package com.Valera0823.Abstrac;
+
+public class Human extends Living{
+
+}

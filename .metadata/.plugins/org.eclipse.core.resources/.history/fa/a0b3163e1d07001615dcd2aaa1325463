@@ -1,0 +1,11 @@
+package com.Valera0823.Poli;
+import java.util.Calendar;
+
+public class TestHerencia {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
